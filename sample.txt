@@ -1,1 +1,2 @@
-This is the first line of text file
+This is the first line of text fileThe data is being appended
+ The data is being appended
